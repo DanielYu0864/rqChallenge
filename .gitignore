@@ -1,0 +1,36 @@
+
+# BlueJ files
+*.ctxt
+# Package Files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs
+hs_err_pid*
+
+# IDE-specific files
+.idea/
+*.iml
+.vscode/
+*.swp
+
+# Gradle
+.gradle/
+build/
+
+# Spring Boot
+spring-boot-starter/
+!**/src/main/**
+!**/src/test/**
+
+# Application properties
+application*.yml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
